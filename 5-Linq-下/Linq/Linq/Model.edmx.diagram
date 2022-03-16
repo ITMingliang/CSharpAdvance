@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="13a565b2e2ea43e682ff9d0293dcde16" Name="Diagram1">
+        <EntityTypeShape EntityType="DBModel.Books" Width="1.5" PointX="5.25" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.BorrowDetail" Width="1.5" PointX="7.5" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.BorrowInfo" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.Categories" Width="1.5" PointX="3" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.Publishers" Width="1.5" PointX="3" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.ReaderRoles" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.Readers" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.ReturnBook" Width="1.5" PointX="9.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.SysAdmins" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="7.375" IsExpanded="true" />
+        <AssociationConnector Association="DBModel.FK__Books__BookCateg__1A14E395" ManuallyRouted="false" />
+        <AssociationConnector Association="DBModel.FK__Books__Publisher__1920BF5C" ManuallyRouted="false" />
+        <AssociationConnector Association="DBModel.FK__BorrowDet__BookI__29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="DBModel.FK__BorrowDet__Borro__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="DBModel.FK__ReturnBoo__Borro__29221CFB" ManuallyRouted="false" />
+        <AssociationConnector Association="DBModel.FK__BorrowInf__Reade__24927208" ManuallyRouted="false" />
+        <AssociationConnector Association="DBModel.FK__Readers__RoleId__1ED998B2" ManuallyRouted="false" />
+        <AssociationConnector Association="DBModel.FK__Readers__AdminId__20C1E124" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

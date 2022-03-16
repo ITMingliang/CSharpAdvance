@@ -1,0 +1,16 @@
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\bin\Debug\net5.0\MyAttribute.exe
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\bin\Debug\net5.0\MyAttribute.deps.json
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\bin\Debug\net5.0\MyAttribute.runtimeconfig.json
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\bin\Debug\net5.0\MyAttribute.runtimeconfig.dev.json
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\bin\Debug\net5.0\MyAttribute.dll
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\bin\Debug\net5.0\ref\MyAttribute.dll
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\bin\Debug\net5.0\MyAttribute.pdb
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\obj\Debug\net5.0\MyAttribute.csprojAssemblyReference.cache
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\obj\Debug\net5.0\MyAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\obj\Debug\net5.0\MyAttribute.AssemblyInfoInputs.cache
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\obj\Debug\net5.0\MyAttribute.AssemblyInfo.cs
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\obj\Debug\net5.0\MyAttribute.csproj.CoreCompileInputs.cache
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\obj\Debug\net5.0\MyAttribute.dll
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\obj\Debug\net5.0\ref\MyAttribute.dll
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\obj\Debug\net5.0\MyAttribute.pdb
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\10-MyAttribute\MyAttribute\MyAttribute\obj\Debug\net5.0\MyAttribute.genruntimeconfig.cache

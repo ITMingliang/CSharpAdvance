@@ -1,0 +1,10 @@
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\2-反射\Reflection\Reflection\bin\Debug\Reflection.exe.config
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\2-反射\Reflection\Reflection\bin\Debug\Reflection.exe
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\2-反射\Reflection\Reflection\bin\Debug\Reflection.pdb
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\2-反射\Reflection\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\2-反射\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\2-反射\Reflection\Reflection\obj\Debug\Reflection.exe
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\2-反射\Reflection\Reflection\obj\Debug\Reflection.pdb
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\2-反射\Reflection\Reflection\bin\Debug\SqlServerDB.dll
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\2-反射\Reflection\Reflection\bin\Debug\SqlServerDB.pdb
+D:\Ant编程一期\3-进阶语法（使用进阶语法升级图书管理系统）\2-反射\Reflection\Reflection\obj\Debug\Reflection.csproj.CopyComplete

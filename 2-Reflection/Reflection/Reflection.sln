@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{21A672BE-6D0A-41A2-BA0E-91AD1F1F357B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlServerDB", "SqlServerDB\SqlServerDB.csproj", "{9CA6566A-D2FA-4762-9744-B85181A10BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A672BE-6D0A-41A2-BA0E-91AD1F1F357B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A672BE-6D0A-41A2-BA0E-91AD1F1F357B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A672BE-6D0A-41A2-BA0E-91AD1F1F357B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A672BE-6D0A-41A2-BA0E-91AD1F1F357B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA6566A-D2FA-4762-9744-B85181A10BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA6566A-D2FA-4762-9744-B85181A10BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA6566A-D2FA-4762-9744-B85181A10BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA6566A-D2FA-4762-9744-B85181A10BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04AB293C-E315-493D-9EA3-77328EEA0CC3}
+	EndGlobalSection
+EndGlobal
